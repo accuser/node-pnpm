@@ -1,0 +1,11 @@
+{
+  "name": "node-pnpm",
+  "version": "1.0.0",
+  "description": "Node and PNPM container for SvelteKit applications",
+  "scripts": {
+    "build": "docker build -t accuser/node-pnpm ."
+  },
+  "keywords": [],
+  "author": "Matthew Gibbons",
+  "license": "ISC"
+}
